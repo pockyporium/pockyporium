@@ -9,7 +9,7 @@ Reformed JS/TS simp who's addicted to hot cheetos and pepsi zero~
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/pockyporium)
 
 # Hobbies
-Programming
-Video games (esp soulsbornes, ARPGs, colony-sims)
-Streaming
-Finding new ramen shops 🍜
+- Programming (TS, C#, new Rust user!)
+- Video games (esp soulsbornes, ARPGs, colony-sims)
+- Streaming
+- Finding new ramen shops 🍜
