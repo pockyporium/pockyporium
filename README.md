@@ -13,3 +13,4 @@ Reformed JS/TS simp who's addicted to hot cheetos and pepsi zero~
 - Video games (esp soulsbornes, ARPGs, colony-sims)
 - Streaming
 - Finding new ramen shops 🍜
+- Tier listing foods I probably shouldn't be eating
