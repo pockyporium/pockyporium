@@ -10,7 +10,7 @@ Reformed JS/TS simp who's addicted to hot cheetos and pepsi zero~
 [![i use mac btw](https://i.ibb.co/JdhYTSG/i-use-mac-btw.png)](https://apple.com)
 
 # Hobbies
-- Programming (TS, C#, new Rust user!)
+- Programming (TS, C#, new Rust user! 🦀)
 - Video games (esp soulsbornes, ARPGs, colony-sims)
 - Streaming
 - Finding new ramen shops 🍜
